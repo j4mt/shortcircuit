@@ -5,7 +5,7 @@ to run:
 
 @ root run : mvn clean test.
 
-- allure reports to added
+- allure reports
 
  - mvn site, then run mvn jetty:run, view the reports on localhost
 
